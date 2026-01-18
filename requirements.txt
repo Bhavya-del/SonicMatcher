@@ -1,0 +1,10 @@
+streamlit
+pandas
+np
+nltk
+sentence-transformers
+xgboost
+torch
+pyarrow
+scikit-learn
+
